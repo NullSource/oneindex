@@ -19,7 +19,7 @@ Onedrive Directory Index
 3、OneIndex 程序   
 
 ## 配置：
-<img width="658" alt="image" src="https://i.lia.im/git/install.gif">  
+<img width="658" alt="image" src="/media/files/install.gif">  
 
 ### 计划任务  
 [可选]**推荐配置**，非必需。后台定时刷新缓存，可增加前台访问的速度。  
@@ -93,3 +93,7 @@ php one.php upload:file demo.zip /test/d.zip
 //上传up/ 到OneDrive /test/ 目录  
 php one.php upload:file up/ /test/
 ```
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ikym/Oneindex.svg)](https://starchart.cc/ikym/Oneindex)
